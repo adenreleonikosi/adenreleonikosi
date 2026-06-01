@@ -1,4 +1,5 @@
-# Hello there; Welcome 👋🏾
+# Hello there;
+# Welcome 👋🏾
 
 <div id="badges">
   <a href="your-linkedin-URL">
