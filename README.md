@@ -1,12 +1,8 @@
-# Hello there;
-# Welcome 👋🏾
+# Hello there; Welcome 👋🏾
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/kofoworolaonikosi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adenrele's LinkedIn"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Adenrele's Youtube"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Adenrele's Twitter"/>
@@ -24,7 +20,7 @@
 - 💡 Fun fact: I'm currently studying at .
 - 🌱 I’m currently learning Microsoft Azure.
 - 📝 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: GRC Analyst, Cloud Engineer, or AI/ML Engineer.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
